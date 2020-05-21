@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da713e9-d009-4dbe-aac2-f0282b5038fd" name="Default Changelist" comment="" />
+    <list default="true" id="4da713e9-d009-4dbe-aac2-f0282b5038fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vehinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/vehinh.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cA5DbvAGNO402uDmeO61dsbZ0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -28,7 +36,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Xây dựng lớp mô tả hình tròn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Codegym\Lớp vẽ hình tròn vàn hình chữ nhật" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +53,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589958438555</updated>
-      <workItem from="1589958441321" duration="10067000" />
+      <workItem from="1589958441321" duration="10212000" />
+      <workItem from="1590024986163" duration="7000" />
+      <workItem from="1590025035947" duration="14742000" />
+      <workItem from="1590055486625" duration="1141000" />
     </task>
     <servers />
   </component>
@@ -48,9 +64,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1589958585551">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590048681238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589958585551" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590048681238" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590034945226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590034945226" />
   </component>
 </project>
